@@ -1,11 +1,7 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
 # kryogen Kernel
-Initial commit
-=======
-# Kryogen
->>>>>>> b5bbc6f0e0ee37b8b2ebe57abe30fe8b9c73a3dd
-=======
-# Kryogen
->>>>>>> Update README.md
 Kryogen kernel for MI A2 - SDM660.
+
+
+BASE CREDITS: 
+https://github.com/rogers2602/hex_jasmine
+https://github.com/MiCode/Xiaomi_Kernel_OpenSource/tree/jasmine-o-oss
